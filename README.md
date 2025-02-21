@@ -3,7 +3,8 @@
 
 Este plugin para QGIS permite la descarga directa de mapas base y capas WMS y WFS provenientes de la Base de Datos del Instituto Geográfico Nacional de Argentina.
 
-![image](https://github.com/etengler/complementoQgis_v1/assets/58312881/23f58099-2d7c-46f8-8fec-2b7649d572d7)
+![image](https://github.com/user-attachments/assets/a2546bf5-ca33-41e9-acf4-74abd922ceb8)
+
 
 
 Para hacer uso del complemento se deben seguir los siguientes pasos:
